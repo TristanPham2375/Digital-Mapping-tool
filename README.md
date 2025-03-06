@@ -1,6 +1,4 @@
 
-
-"""
 # Digital-Mapping-Tool
 
 A Python-based mapping tool designed to calculate the shortest path and travel distance between two nodes in a customizable, weighted graph. This tool uses Dijkstra’s algorithm for efficient pathfinding and includes a backtracking mechanism for route visualization.
@@ -24,6 +22,4 @@ A Python-based mapping tool designed to calculate the shortest path and travel d
 
 - `main.py`: The main program file responsible for handling the graph setup, user inputs, and shortest path calculations.
 - `node.py`: Defines the Node class and related properties, managing each node’s connections, weights, and coordinates.
-
-"""
 
